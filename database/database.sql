@@ -5,3 +5,7 @@ CREATE TABLE user (
     email VARCHAR(255),
     password VARCHAR(255)
 );
+
+
+
+esta es una preba en el archivo de DATABASE
